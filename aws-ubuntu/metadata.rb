@@ -1,0 +1,7 @@
+name             'aws-ubuntu'
+maintainer       'Ruvixx'
+maintainer_email 'no@body.com'
+license          'All rights reserved'
+description      'Adds swap to Ubuntu instance'
+long_description 'Adds swap to Ubunut instance for real'
+version          '1.0'
